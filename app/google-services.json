@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310960075083",
+    "project_id": "test-90084",
+    "storage_bucket": "test-90084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310960075083:android:cd7b9465e761a3283278ce",
+        "android_client_info": {
+          "package_name": "com.base.testonesignal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmfw3xBt9UW4LURhFYmUB_jd3wW5TZYy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
